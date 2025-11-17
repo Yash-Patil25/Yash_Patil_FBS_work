@@ -1,0 +1,1 @@
+#Sum of all prime numbers between 1 to n
